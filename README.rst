@@ -1,4 +1,4 @@
-Welcome to Read the Docs
+GDPR Welcome to Read the Docs
 ========================
 
 |build-status| |docs| |coverage|
